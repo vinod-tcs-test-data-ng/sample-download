@@ -32,7 +32,7 @@
 	</distributionManagement>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <sonar.host.url>http://52.66.206.43:9000/</sonar.host.url>
+    <sonar.host.url>http://3.110.102.171:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>passw0rd</sonar.password> 
   </properties>
